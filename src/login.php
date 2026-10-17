@@ -119,7 +119,7 @@ if (!empty($_POST["name"]) && !empty($_POST["pass"])) {
     </form>
     
 
-<a href="m6_2.php">ホームへ</a>
+<a href="index.php">ホームへ</a>
   
 </body>
 </html>

@@ -121,7 +121,7 @@ $sql = 'SELECT * FROM book WHERE id=:id';
 ?>
     
     <h1>
-      マイリスト　　　　　　　<a href="m6_2.php">ホームへ</a>
+      マイリスト　　　　　　　<a href="index.php">ホームへ</a>
     </h1>
     <h2>
     新しく紹介する
